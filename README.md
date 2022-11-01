@@ -10,3 +10,6 @@ NRP : 5025211167
 
 Nama : Ariel Pratama Menlolo<br>
 NRP : 5025211194
+
+Nama : Schaquille Devlin Aristano
+NRP : 5025211211
